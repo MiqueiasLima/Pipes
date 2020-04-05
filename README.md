@@ -1,4 +1,3 @@
-# Pipes
+# Pipes and Filters com 
 
-Utilização de "Pipes" para modificar uma sequência de caracteres de acordo com a preferência do Usuário,
-junto com Padrão Arquiterual MVC
+UtilizaÃ§Ã£o do PadrÃ£o Arquitetural "Pipes and Filters com MVC"  para modificar uma sequÃªncia de caracteres de acordo com a preferÃªncia do UsuÃ¡rio.
